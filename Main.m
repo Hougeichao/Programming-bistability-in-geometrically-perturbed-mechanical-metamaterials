@@ -5,7 +5,6 @@ e1 = [1;0]; e2 = [0;1];
 l1R = 1*e1; l2R = 1*e2;
 l1D = 1.2*e1; l2D = 0.8*e2;
 
-
 %% start optimization
 options = optimoptions('fmincon','Algorithm','sqp','MaxFunctionEvaluations',10000,'MaxIterations',1000,'ConstraintTolerance',1e-8,'FunctionTolerance',1e-6,'Display','iter');
 ic = [0.45;-0.05;0.45;0.05;-0.2*pi;0.15*pi;-0.2*pi;0.2*pi];
