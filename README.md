@@ -1,4 +1,4 @@
-# Programming bistability in geometrically perturbed mechanical meta materials
+# Programming bistability in geometrically perturbed mechanical metamaterials
 
 <img src = "https://github.com/Hougeichao/Programming-bistability-in-geometrically-perturbed-mechanical-metamaterials/blob/main/Figure/Design-exploration.png" />
 
@@ -23,3 +23,5 @@ Main programs:
 * `Energy_spr.m` and `EnergyBarrier.m` construct the functions for the elastic energy and energy barrier respectively.  
 * `Rot.m` represents the 2D rotation tensor.
 * `ccc.m` is used for the clearance.
+
+Remarks:
