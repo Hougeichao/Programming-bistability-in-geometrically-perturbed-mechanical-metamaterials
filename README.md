@@ -2,7 +2,7 @@
 
 This repository provides a versatile design framework for designing and optimizing bistable kirigami metamaterials with target shapes and mechanical properties. 
 
-The framework allows users to design custom kirigami patterns by prescribing shape-change lattice vectors in two stable states ($\boldsymbol{\ell}_1^R, \boldsymbol{\ell}_2^R$ in the frist stable state and $\boldsymbol{\ell}_1^D, \boldsymbol{\ell}_2^D$ in the second), enabling the realization of homogeneous shape-morphing kirigami metamaterials. 
+The framework allows users to design custom kirigami patterns by prescribing shape-change lattice vectors in two stable states ($\boldsymbol{\ell}_1^R, \boldsymbol{\ell}_2^R$ in the first stable state and $\boldsymbol{\ell}_1^D, \boldsymbol{\ell}_2^D$ in the second), enabling the realization of homogeneous shape-morphing kirigami metamaterials. 
 
 _<ins>**Please use the code to design your own Kirigami pattern!** </ins>_
 
